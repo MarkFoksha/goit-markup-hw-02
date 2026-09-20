@@ -1,0 +1,31 @@
+.logo-studio-header {
+  color: #2e2f42;
+}
+
+.nav-link {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #404bbf;
+}
+
+.contact-link {
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: inherit;
+  text-decoration: none;
+}
+
+.contact-link:hover, .contact-link:focus {
+  color: #404bbf;
+}
+
+address {
+  font-style: normal;
+}
